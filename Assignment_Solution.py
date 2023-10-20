@@ -8,6 +8,7 @@
 # 5. State with the max accumulated value of "Number of days with maximum 8-hour average ozone concentration over the National Ambient Air Quality Standard" overall years
 # 6. Average value of "Number of person-days with maximum 8-hour average ozone concentration over the National Ambient Air Quality Standard" in the state of Florida
 # 7. County with min "Number of days with maximum 8-hour average ozone concentration over the National Ambient Air Quality Standard" per state per year
+# Read data from AQM_Data1.json file
 
 @route('/shoes', method='POST')
 def createorder():
